@@ -1,0 +1,11 @@
+{
+  "name": "hanz",
+  "packageManager": "yarn@4.18.1",
+  "author": "Juma Baraka",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
