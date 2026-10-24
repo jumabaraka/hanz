@@ -18,7 +18,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.barakaj.hanz"
+      "package": "com.jumabaraka.hanz"
     },
     "web": {
       "output": "static",
