@@ -28,7 +28,9 @@ export default function RootLayout() {
             </Stack>
           </View>
         </View>
+        
       </AppStoreProvider>
     </SafeAreaView>
   );
 }
+
